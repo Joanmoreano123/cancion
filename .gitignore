@@ -1,0 +1,5 @@
+*.dat
+resultados/
+.DS_Store
+
+# puede ignorarse archivos y carpetas
