@@ -2,4 +2,4 @@
 resultados/
 .DS_Store
 
-# puede ignorarse archivos y carpetas
+# puede ignorarse archivos y carpetas con .gitignore
